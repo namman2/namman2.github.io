@@ -99,8 +99,8 @@ define(['jquery', 'hammer', 'bootstrap', 'setup', 'resize-text', 'bar-chart', 'd
 
 			googleMapsSettings = {
 				styled: true,
-				latitude: 22.319252,
-				longitude: 114.169355,
+				latitude: 41.862350,
+				longitude: -87.652482,
 				zoom: 15,
 				hue: primaryColor.toRgbaString(),
 				gamma: 1.75,
